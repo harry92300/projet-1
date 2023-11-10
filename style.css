@@ -1,0 +1,246 @@
+@import url('https://fonts.googleapis.com/css2? family= Inter:wght@300 & display=swap');
+
+
+body{
+    margin: 0;
+    padding: 0;
+
+}
+.header{
+    background: url(image00000.jpeg);
+    height: 650px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+.navbar {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: baseline;
+}
+
+
+.logo h1{
+width: 175px;
+height: 54px;
+font-family: 'Inter',sans-serif;
+font-style: normal;
+font-weight: 400;
+font-size: 45px;
+line-height: 54px;
+padding-left: 7%;
+color: #FFFFFF;
+}
+
+span.logoGras {
+    font-weight: 700;
+}
+.onglet a{
+    margin-right: 10px ;
+    text-decoration: none;
+    width: 144px;
+height: 36px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 300;
+font-size: 30px;
+line-height: 36px;
+
+color: #FFFFFF;
+
+    padding-right: 38px;
+}
+
+.titree {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.titree h1{
+height: 73px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 60px;
+line-height: 73px;
+color: #FFFFFF;
+padding-top: 223px;
+padding-left: 80px;
+}
+
+
+
+
+/* pexels-photo-3165335 1 */
+{
+
+    position: absolute;
+    width: 1920px;
+    height: 650px;
+    
+    background: url(pexels-photo-3165335.jpg);
+    }
+    /* In’Game */
+    {
+        position: absolute;
+    width: 175px;
+    height: 54px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 45px;
+    line-height: 54px;
+    
+    color: #FFFFFF;
+    
+    }
+    
+    
+    /* Tu es novice en esport ? */
+    
+    {
+    
+    position: absolute;
+    width: 820px;
+    height: 85.35px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 70px;
+    line-height: 85px;
+    
+    }
+    
+    
+    
+    
+    #posi
+    {
+    /* background event title */
+        position: absolute;
+        width: 1670px;
+        height: 262px;
+        background-color: black;
+    
+    }
+    h3{
+        color: grey;
+    }
+    .ma-classe{
+        color: #636363;
+    }
+    h4{
+        background-color: black;
+    }
+    .fondeur{
+        background-color: #101010;
+    }
+    h4{
+        color: white;
+    }
+    
+    .thebak{
+        background-color: black;
+    }
+    h5{
+        color:#9E9E9E;
+    }
+    
+    table{
+        border-collapse: collapse;
+        width: 100%;
+        background-color: #303030;
+    }
+    td{
+        border: 1px;
+        padding: 10px;
+        text-align: center;
+    }
+    
+    img{
+        max-width: 100%;
+        height: auto;
+        display: block;
+    }
+
+    figcaption{
+        font-size: 1,2rem;
+        font-weight: bold;
+        text-align: center;
+        margin-top: 10px;
+    }
+    .lesion{
+        display: flex;
+        flex-direction: row;
+    }
+
+    .image16{
+        flex: 1;
+    }
+    .texte{
+        flex: 2;
+        margin-left: 20px;
+        
+    }
+    .follow{
+        display: flex;
+        flex-direction: row;
+    }
+    .next{
+        flex: 2;
+        background-color: #636363;
+        color: #808080;
+    }
+    .imageez17{
+        flex: 1;
+        margin-left: 20px;
+        
+    }
+    
+    .working{
+        display: flex;
+        flex-direction: row;
+    }
+    
+    .image600{
+        flex: 1;
+    }
+    .gtext{
+        flex: 2;
+        margin-left: 20px;
+    }
+    .rectangle-long{
+        width: 2000px;
+        height: 200px;
+        background: #303030;
+        display: flex;
+        justify-content: space-between;
+    }
+    .rectangle-long img{
+        width: 10%;
+    }
+
+    .logoBleu h3{
+        width: 175px;
+        height: 54px;
+        Font family: Inter
+        Font style: Mixed
+        Font size: 45px
+        Line height: 54px
+        Line height: 100%
+
+    }
+    #map{
+        position: absolute;
+        right: 0;
+        top: 0;
+        bottom: 0;
+        width: 50%;
+    }
